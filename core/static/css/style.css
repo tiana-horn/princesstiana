@@ -1,0 +1,39 @@
+.body {
+    font-family: 'Poppins', sans-serif;
+    background-color:#88645A;
+    width:100%;
+    margin-left:0%;
+    margin-right:0%;
+
+}
+
+h2 {
+    font-weight: 700;
+    color: whitesmoke
+}
+
+.Row
+{
+    display: table;
+    width: 100%; 
+    table-layout: auto; 
+    border-spacing: 5px; 
+}
+.Column
+{
+    display: table-cell;
+}
+
+.cursors {
+    cursor: url(http://tianahorn.com/images/pointer.png), auto ;
+  }
+
+a{
+    cursor: url(http://tianahorn.com/images/pointer.png), auto ;
+  
+  }
+
+  a:hover {
+    cursor: url(http://tianahorn.com/images/pointer.png), auto ;
+  
+  }
