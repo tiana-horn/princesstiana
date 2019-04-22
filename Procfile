@@ -1,1 +1,1 @@
-web:gunicorn princesstiana.wsgi
+web: gunicorn princesstiana.wsgi
